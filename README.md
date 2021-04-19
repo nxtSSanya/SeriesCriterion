@@ -55,7 +55,7 @@ In my code you can only check 2 time series.</br>
 1000    13.9</br>
 998.8   14.4</br>
 </pre>
-</br></br>
+</br>
 # Input data
 1. First string is the number of data
 2. Second string is the name of file with time series Y.(format: *.txt)
