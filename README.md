@@ -3,9 +3,9 @@ Use this code to check your time series for having a trend. This criterion count
 <img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}v_n&space;>=&space;\frac{1}{3}*(2*n-1)-1.96*\sqrt{\frac{16*n-29}{90}}\\max&space;<=&space;t_0&space;\end{matrix}\right." title="\left\{\begin{matrix}v_n >= \frac{1}{3}*(2*n-1)-1.96*\sqrt{\frac{16*n-29}{90}}\\max <= t_0 \end{matrix}\right." /></br>
 In my code you can only check 2 time series.</br>
 # Example
-y    </pre>   x</br>
-999.5   </pre>0.5</br>
-1000.4  </pre>0.4</br>
+y    <pre>   x</br>
+999.5   <pre>0.5</br>
+1000.4  <pre>0.4</br>
 1000.7  0.7</br>
 1001.7  1.6</br>
 1000.3  2.3</br>
