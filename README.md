@@ -54,6 +54,7 @@ y       x
 1000.1  13.5
 1000    13.9
 998.8   14.4
+</br>
 #Input data
 1. First string is the number of data
 2. Second string is the name of file with time series Y.(format: *.txt)
