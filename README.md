@@ -1,5 +1,5 @@
 # SeriesCriterion
-Use this code to check your time series for having a trend. This criterion counts all the series and find the maximum subsequence of equal series. After that, our parameters v_n - count of all series and max - maximum of subsequences rates in formulas:
+Use this code to check your time series for having a trend. This criterion counts all the series and find the maximum subsequence of equal series. After that, our parameters v_n - count of all series and max - maximum of subsequences rates in formulas:</br>
 <img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}v_n&space;>=&space;\frac{1}{3}*(2*n-1)-1.96*\sqrt{\frac{16*n-29}{90}}\\max&space;<=&space;t_0&space;\end{matrix}\right." title="\left\{\begin{matrix}v_n >= \frac{1}{3}*(2*n-1)-1.96*\sqrt{\frac{16*n-29}{90}}\\max <= t_0 \end{matrix}\right." /></br>
 In my code you can only check 2 time series. To use it you need to have files with data. For example you can use `input.txt` and `ryad_x.txt` they're located in source.</br>
 # Example
