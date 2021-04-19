@@ -62,12 +62,12 @@ Data for time series X is located in file ryad_x.txt, so you can change it in co
 
 # Output data(for example)
 
-SERII Y
-1 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1
-SERII X
-0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0 1 1 0 1 1 1
-TIME SERIES X: YES
-TIME SERIES Y: YES
-
-Program puts "YES" if time series have a trend, else puts "NO".
+SERII Y</br>
+1 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1</br>
+SERII X</br>
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0 1 1 0 1 1 1</br>
+TIME SERIES X: YES</br>
+TIME SERIES Y: YES</br>
+</br>
+Program puts "YES" if time series have a trend, else puts "NO".</br>
 
